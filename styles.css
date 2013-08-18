@@ -1,0 +1,86 @@
+body{
+	background: #4D4D4D;
+	color: white;
+
+}
+#Tech{
+	background: #3E3E3E;
+	padding-bottom: 15px;
+}
+#Tech h3{
+	padding: 5px;
+}
+
+
+#LESS {
+	background-color: #297ACC;
+	color: white;
+	border-radius: 5px;
+	margin: 2px;
+}
+
+
+#node {
+	background-color: #631400;
+	color: white;
+	border-radius: 5px;
+	text-align: justify;
+	margin: 2px;
+}
+
+#python {
+	background-color: #16873C;
+	border-radius: 5px;
+	color: white;
+	text-align: justify;
+	margin: 2px;
+}
+
+h1{
+	padding: 10px;
+	margin: 1px;
+}
+
+
+h3{
+	padding: 5px 
+}
+p{
+	padding: 5px
+
+}
+
+ul{
+	float: right;
+	list-style: none;
+	padding: 10px;
+	margin: 1px;
+}
+
+ul li{
+	float: left;
+	padding: 5px
+}
+address{
+	background: #292B32;
+	color: white;
+	padding: 10px
+}
+
+a {
+	color: white;
+
+}
+
+#map-canvas { height: 145px; }
+
+/*======= Map Styling ============*/
+.gmnoprint a, .gmnoprint span {
+    display:none;
+}
+.gmnoprint div {
+    background:none !important;
+}
+#GMapsID div div a div img{
+    display:none;
+}
